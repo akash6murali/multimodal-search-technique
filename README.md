@@ -19,3 +19,6 @@ This is a simple project inspired by OpenAI's CLIP model.
 
 ## Code and Results?
 - Refer the **image-text-multimodal.ipynb** notebook for detail code and results. 
+
+## Acknowledgments
+This project was inspired by and based on the blog post "[Multimodal Search with Snowflake Embedding and MAX Engine]" by [Ehsan M.Kermani], available at [https://www.modular.com/blog/multimodal-search-with-snowflake-embedding-and-max-engine].
